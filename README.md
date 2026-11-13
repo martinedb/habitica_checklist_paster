@@ -51,6 +51,8 @@ Every pasted line, including the first, is added as a checklist item.
 
 <img width="1520" height="660" alt="image" src="https://github.com/user-attachments/assets/1a50096d-a741-49e3-a8ef-3e5373721da3" />
 
+<img width="2188" height="938" alt="prompt-preview" src="https://github.com/user-attachments/assets/b84842ac-6304-435c-9212-63f0c6ef82f8" />
+
 
 ## How it finds your login
 
