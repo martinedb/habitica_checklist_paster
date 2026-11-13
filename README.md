@@ -49,6 +49,9 @@ Every pasted line, including the first, is added as a checklist item.
 
 > **Don't press Save in the open edit window after appending.** The window still shows the old checklist and saving it can overwrite the items you just added. Reload the page instead.
 
+<img width="1520" height="660" alt="image" src="https://github.com/user-attachments/assets/1a50096d-a741-49e3-a8ef-3e5373721da3" />
+
+
 ## How it finds your login
 
 The script reads your session from the `habit-mobile` entry in Habitica's browser storage. If that isn't found, it searches your other stored entries for a user ID and API token pair.
