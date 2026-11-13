@@ -47,6 +47,43 @@ The first line, `Pack for trip`, becomes the title and the other lines become th
 
 Every pasted line, including the first, is added as a checklist item.
 
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 330" width="760" height="330" role="img" aria-labelledby="t d">
+  <title id="t">How it works</title>
+  <desc id="d">Paste a multi-line list into Habitica, choose in the prompt whether to create a new To-Do or append to the open task, and the checklist is created.</desc>
+  <defs>
+    <marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10z" fill="#6b6f80"/>
+    </marker>
+  </defs>
+  <rect width="760" height="330" rx="14" fill="#eceef5"/>
+  <g font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif" font-size="14" text-anchor="middle">
+    <rect x="30" y="115" width="170" height="80" rx="10" fill="#ffffff" stroke="#bbbbbb"/>
+    <text x="115" y="147" font-weight="700" fill="#222222">1. Copy a list</text>
+    <text x="115" y="169" fill="#555555">2+ lines, then paste</text>
+    <text x="115" y="187" fill="#555555">into Habitica</text>
+
+    <rect x="295" y="115" width="170" height="80" rx="10" fill="#ffffff" stroke="#bbbbbb"/>
+    <text x="380" y="147" font-weight="700" fill="#222222">2. Prompt appears</text>
+    <text x="380" y="169" fill="#555555">Preview of the lines,</text>
+    <text x="380" y="187" fill="#555555">pick an action</text>
+
+    <rect x="560" y="45" width="170" height="80" rx="10" fill="#4f2a93"/>
+    <text x="645" y="77" font-weight="700" fill="#ffffff">Create To-Do</text>
+    <text x="645" y="99" fill="#e6dcf7">1st line = title</text>
+    <text x="645" y="117" fill="#e6dcf7">rest = checklist</text>
+
+    <rect x="560" y="185" width="170" height="80" rx="10" fill="#e8eaf6" stroke="#9fa8da"/>
+    <text x="645" y="217" font-weight="700" fill="#283593">Append to task</text>
+    <text x="645" y="239" fill="#3b4aa0">every line becomes</text>
+    <text x="645" y="257" fill="#3b4aa0">a checklist item</text>
+
+    <path d="M200 155H293" stroke="#6b6f80" stroke-width="2" fill="none" marker-end="url(#a)"/>
+    <path d="M465 140L558 100" stroke="#6b6f80" stroke-width="2" fill="none" marker-end="url(#a)"/>
+    <path d="M465 170L558 210" stroke="#6b6f80" stroke-width="2" fill="none" marker-end="url(#a)"/>
+    <text x="380" y="300" font-size="13" fill="#555555">After appending, reload the page to see the new items.</text>
+  </g>
+</svg>
+
 > **Don't press Save in the open edit window after appending.** The window still shows the old checklist and saving it can overwrite the items you just added. Reload the page instead.
 
 ## How it finds your login
